@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your project:
-
----
-
 # User Management Mini Project
 
 This is a simple mini full-stack project for user management, where users can enter their name and email, which are then saved in a MySQL database.
